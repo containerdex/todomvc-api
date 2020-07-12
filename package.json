@@ -1,0 +1,21 @@
+{
+  "name": "todomvc-api",
+  "version": "1.0.0",
+  "description": "Todo list application API",
+  "main": "index.js",
+  "repository": "git@github.com:containerdex/todomvc-api.git",
+  "author": "Rubén Klauck-López",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-env": "^7.10.3",
+    "express": "^4.17.1",
+    "lodash-es": "^4.17.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2"
+  }
+}
