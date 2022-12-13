@@ -9,7 +9,7 @@
   "private": true,
   "dependencies": {
     "@babel/preset-env": "^7.10.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lodash-es": "^4.17.15"
   },
   "devDependencies": {
